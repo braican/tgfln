@@ -1,0 +1,11 @@
+{
+  "begin": [
+    "Yo brotha",
+    "What the fuck?",
+    "1yobrotha",
+    "2whatthefuck",
+    "ending",
+    "ending"
+  ],
+  "ending": "Congratulations, you found Big Bob from last night!"
+}

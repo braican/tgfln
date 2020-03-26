@@ -1,0 +1,150 @@
+{
+	"begin":[
+		"Blow him off",
+		"How do you think?",
+		"Don't remember",
+		"1blowhimoff",
+		"8howdoyouthink",
+		"26dontremember",
+		"1a",
+		"1b",
+		"1c",
+		0,
+		0,
+		0
+	],
+	"1a":[
+		"Beer",
+		"Asshole",
+		"3beer",
+		"2asshole",
+		"2a",
+		"2a"
+	],
+	"2a":[
+		"That doesn't help",
+		"Not surprising",
+		"4thatdoesnthelp",
+		"5notsurprising",
+		"end",
+		"3a"
+	],
+	"3a":[
+		"I doubt it",
+		"Oh c'mon",
+		"6idoubtit",
+		"7cmon",
+		"end",
+		"end"
+	],
+	"1b":[
+		"Chicken Wings",
+		"Budweiser",
+		"Answers",
+		"21chickenwings",
+		"14bud",
+		"9answers",
+		"2b",
+		"2c",
+		"2d",
+		0,
+		0,
+		0
+	],
+	"2b":[
+		"Let it go",
+		"Yea sure",
+		"22letitgo",
+		"23yousure",
+		"end",
+		"3b"
+	],
+	"3b":[
+		"No I didn't",
+		"The what?",
+		"25noididnt",
+		"24thewhat",
+		"end",
+		"end"
+	],
+	"2c":[
+		"Absolutely",
+		"Not really",
+		"16absolutely",
+		"25notreally",
+		"3c",
+		"3a"
+	],
+	"3c":[
+		"You don't know",
+		"Whatever",
+		"17youdontknow",
+		"28whatever",
+		"end",
+		"4a"
+	],
+	"4a":[
+		"Any info?",
+		"You holding out?",
+		"19anyinfo",
+		"20youholdingout",
+		"end",
+		"end"
+	],
+	"2d":[
+		"What happened?",
+		"She was",
+		"11whathappened",
+		"10shewas",
+		"3e",
+		"3e"
+	],
+	"3e":[
+		"Where to?",
+		"You don't understand",
+		"13whereto",
+		"12youdontunderstand",
+		"end",
+		"end"
+	],
+	"1c":[
+		"No",
+		"Yes",
+		"34no",
+		"27yes",
+		"2e",
+		"2f"
+	],
+	"2e":[
+		"Worth it",
+		"Get Lucky",
+		"36worthit",
+		"35gotlucky",
+		"end",
+		"end"
+	],
+	"2f":[
+		"I do work",
+		"It's healthy",
+		"28idowork",
+		"31itshealthy",
+		"3f",
+		"3g"
+	],
+	"3f":[
+		"Beer me",
+		"Ouch",
+		"30beerme",
+		"29ouch",
+		"end",
+		"end"
+	],
+	"3g":[
+		"Playing the field",
+		"Uh-oh",
+		"32playingthefield",
+		"33uhoh",
+		"end",
+		"end"
+	]
+}

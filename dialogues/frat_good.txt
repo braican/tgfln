@@ -1,0 +1,52 @@
+{
+  "begin": [
+    "Better now",
+    "Like shit",
+    "a1betternow",
+    "a8likeshit",
+    "1a",
+    "1b"
+  ],
+  "1a": [
+    "I blacked out",
+    "Empty bed",
+    "a2iblackedout",
+    "a3youweregone",
+    "2a",
+    "endingGood"
+  ],
+  "2a": [
+    "I'm joking!",
+    "Distract her",
+    "a4imjoking",
+    "a5distracther",
+    "endingBad",
+    "3a"
+  ],
+  "3a": [
+    "Distract again",
+    "Ask her hour",
+    "a6nicehair",
+    "a7takeherout",
+    "endingBad",
+    "endingGood"
+  ],
+  "1b": [
+    "Coffee",
+    "Sexual healing",
+    "a10coffee",
+    "a9sexualhealing",
+    "endingBad",
+    "2b",
+  ],
+  "2b": [
+    "I was",
+    "How about dinner?",
+    "a11iwasserious",
+    "a7takeherout",
+    "endingBad",
+    "endingGood"
+  ],
+  "endingGood":"Congratulations, you found the girl from last night!",
+	"endingBad":"Congratulations, you found the girl from last night. But, you blew it!"
+}

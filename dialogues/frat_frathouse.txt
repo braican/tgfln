@@ -1,0 +1,73 @@
+
+{
+	"begin":[
+		"Good",
+		"Bad",
+		"1good",
+		"2bad",
+		"1a",
+		"1b"
+	],
+	"1a":[
+		"Whatever",
+		"You're dumb",
+		"I did better",
+		"5whatever",
+		"6youredumb",
+		"7ididbetter",
+		"2a",
+		"2a",
+		"2b",
+		0,
+		0,
+		0
+	],
+	"2a":[
+		"I love her",
+		"Need your help",
+		"12iloveher",
+		"13yourhep",
+		"3a",
+		"3b"
+	],
+	"3a":[
+		"What?",
+		"Think",
+		"16what",
+		"17think",
+		"end",
+		"end"
+	],
+	"3b":[
+		"I knew it",
+		"We leave together",
+		"15iknewit",
+		"14weleavetogether",
+		"end",
+		"end"
+	],
+	"2b":[
+		"Yea right",
+		"What'd I do?",
+		"8yearight",
+		"9whatdido",
+		"end",
+		"3c"
+	],
+	"3c":[
+		"I should apologize",
+		"Who saw?",
+		"10ishouldapologize",
+		"11whosaw",
+		"end",
+		"end"
+	],
+	"1b":[
+		"No way",
+		"What about me?",
+		"3noway",
+		"4whataboutme",
+		"end",
+		"3a"
+	]
+}

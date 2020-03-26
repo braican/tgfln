@@ -1,0 +1,58 @@
+{
+	"Begin":[
+		"Hangin with you",
+		"I'm busy",
+		"1hangingwithyou",
+		"5imbusy",
+		"1a",
+		"1b"
+	],
+	"1a":[
+		"You did",
+		"Of course",
+		"2youdid",
+		"7ofcourse",
+		"2a",
+		"2b"
+	],
+	"2a":[
+		"I saw her?",
+		"Yeah right",
+		"4isawher",
+		"3yeahright",
+		"end",
+		"end"
+	],
+	"2b":[
+		"Awesome",
+		"Don't remember that",
+		"8awesome",
+		"12dontrememberthat",
+		"3a",
+		"end"
+	],
+	"3a":[
+		"Cold",
+		"No excuse",
+		"9cold",
+		"13noexcuse",
+		"4a",
+		"end"
+	],
+	"4a":[
+		"Jealous",
+		"That's true",
+		"11jealous",
+		"10thatstrue",
+		"end",
+		"end"
+	],
+	"1b":[
+		"Of course",
+		"Whatever",
+		"7ofcourse",
+		"6whatever",
+		"2b",
+		"4a"
+	]
+}
