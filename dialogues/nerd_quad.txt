@@ -1,0 +1,56 @@
+{
+	"begin":[
+		"hello",
+		"huh?",
+		"have we met?",
+		"36hellofriend",
+		"37huh",
+		"38havewemet",
+		"1a",
+		"1a",
+		"1a",
+		2,
+		0,
+		-1
+	],
+	"1a":[
+		"seen my girl?",
+		"boring",
+		"39seenmygirl",
+		"40boring",
+		"2a",
+		"2b",
+		1,
+		-2
+	],
+	"2a":[
+		"was i foolish?",
+		"then what?",
+		"44wasifoolish",
+		"43thenwhat",
+		"3a",
+		"3a",
+		1,
+		0
+	],
+	"2b":[
+		"my apologies",
+		"too bad",
+		"41myapologies",
+		"42toobad",
+		"end",
+		"end",
+		2,
+		-2
+	],
+	"3a":[
+		"thanks",
+		"and the girl?",
+		"45thanks",
+		"46andthegirl",
+		"end",
+		"end",
+		3,
+		1
+	]
+}

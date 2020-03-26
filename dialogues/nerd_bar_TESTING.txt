@@ -1,0 +1,92 @@
+{
+	"begin":[
+		"TEST!",
+		"no way",
+		"error",
+		"2noway",
+		"end",
+		"1a",
+		1,
+		-1
+	],
+	"1a":[
+		"I must knoww",
+		"uh-oh...",
+		"3imustknow",
+		"6uhoh",
+		"2a",
+		"2b",
+		-1,
+		1
+	],
+	"2a":[
+		"asshole",
+		"nice guy",
+		"4asshole",
+		"5niceguy",
+		"3a",
+		"3b",
+		-1,
+		1
+	],
+	"2b":[
+		"hells yeah",
+		"yeah right",
+		"8hellsyeah",
+		"7yearight",
+		"3b",
+		"3c",
+		-1,
+		1
+	],
+	"3a":[
+		"he's right",
+		"jerk",
+		"15hesright",
+		"16jerkface",
+		"end",
+		"end",
+		1,
+		-1
+	],
+	"3b":[
+		"farewell",
+		"go on...",
+		"10farewell",
+		"9goon",
+		"4a",
+		"4b",
+		1,
+		0
+	],
+	"3c":[
+		"I'm out",
+		"help me",
+		"17imout",
+		"18helpme",
+		"end",
+		"end",
+		-1,
+		1
+	],
+	"4a":[
+		"I'm the man",
+		"You're the man",
+		"11imtheman",
+		"12youtheman",
+		"end",
+		"end",
+		-1,
+		1
+	],
+	"4b":[
+		"haha",
+		"prick",
+		"13hahaha",
+		"14prick",
+		"end",
+		"end",
+		1,
+		-1
+	]
+}

@@ -1,0 +1,87 @@
+{
+	"begin":[
+		"answers",
+		"booze",
+		"19answers",
+		"20booze",
+		"1a",
+		"1b",
+		1,
+		-1
+	],
+	"1a":[
+		"how rude",
+		"boobs",
+		"24howrude",
+		"23boobs",
+		"end",
+		"2a",
+		2,
+		0
+	],
+	"1b":[
+		"girls",
+		"i'm so fly",
+		"22girls",
+		"21imsofly",
+		"3a",
+		"5a",
+		0,
+		-2
+	],
+	"2a":[
+		"tell me more",
+		"imbecile",
+		"26imbecile",
+		"25tellmemore",
+		"3a",
+		"3a",
+		0,
+		-2
+	],
+	"3a":[
+		"where'd they go?",
+		"you're useless",
+		"32wheredtheygo",
+		"27youreuseless",
+		"4a",
+		"4b",
+		1,
+		-2
+	],
+	"4a":[
+		"that's terrible",
+		"no thanks",
+		"that one",
+		"35thatsterrible",
+		"33nothanks",
+		"34thatone",
+		"end",
+		"end",
+		"end",
+		2,
+		1,
+		-3
+	],
+	"4b":[
+		"bring it",
+		"don't kill me",
+		"28bringit",
+		"29dontkillme",
+		"end",
+		"5a",
+		-2,
+		2
+		
+	],
+	"5a":[
+		"try to think",
+		"ignoramus",
+		"31trytothink",
+		"30ignoramus",
+		"end",
+		"end",
+		1,
+		1
+	]
+}

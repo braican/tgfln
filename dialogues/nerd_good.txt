@@ -1,0 +1,44 @@
+{
+	"begin":[
+		"I found you",
+		"hello",
+		"2ifoundyou",
+		"1hello",
+		"1a",
+		"1b"
+	],
+	"1a":[
+		"you don't remember?",
+		"I love you",
+		"4youdontremember",
+		"3loveyou",
+		"2a",
+		"2b"
+	],
+	"1b":[
+		"last night",
+		"in my dreams",
+		"7lastnight",
+		"8inmydreams",
+		"2b",
+		"endingBad"
+	],
+	"2a":[
+		"I remember you",
+		"you loved me",
+		"irememberyou",
+		"6youlovedme",
+		"endingGood",
+		"endingBad"
+	],
+	"2b":[
+		"nevermind",
+		"let's go out",
+		"9nevermind",
+		"10letsgoout",
+		"endingBad",
+		"endingGood"
+	],
+	"endingGood":"Congratulations, you found the girl from last night!",
+	"endingBad":"Congratulations, you found the girl from last night. But, you blew it"
+}

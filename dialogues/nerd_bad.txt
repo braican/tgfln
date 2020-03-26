@@ -1,0 +1,36 @@
+{
+	"begin":[
+		"how you doin?",
+		"mediocre",
+		"1howyoudoing",
+		"2mediocre",
+		"1a",
+		"1b"
+	],
+	"1a":[
+		"you remember?",
+		"let's get crazy",
+		"5rememberme",
+		"6getcrazy",
+		"2a",
+		"2a"
+	],
+	"1b":[
+		"my place?",
+		"apologize",
+		"3gotomyplace",
+		"4apologize",
+		"endingBad",
+		"endingGood"
+	],
+	"2a":[
+		"movie",
+		"party",
+		"7movie",
+		"8party",
+		"endingBad",
+		"endingGood"
+	],
+	"endingBad":"You found the girl from last night. Too bad you're not her type",
+	"endingGood":"You found the girl from last night. You're not her type, but she doesn't seem to mind"
+}

@@ -1,0 +1,85 @@
+{
+	"begin":[
+		"Steal weed",
+		"Answers",
+		"Fly high",
+		"15stealweed",
+		"16answers",
+		"1flyhigh",
+		"1a",
+		"1a",
+		"1b"
+	],
+	"1a":[
+		"All Good",
+		"Dick",
+		"17allgood",
+		"20dick",
+		"2a",
+		"2a"
+	],
+	"1b":[
+		"Morning already?",
+		"Space cowboy",
+		"2morningalready",
+		"6spacecowboy",
+		"3a",
+		"3b"
+	],
+	"2a":[
+		"Peace and love",
+		"Let her go",
+		"18peaceandlove",
+		"19lethergo",
+		"end",
+		"end"
+	],
+	"3a":[
+		"Trippin' balls",
+		"Chillax",
+		"3trippingballs",
+		"4chillax",
+		"4a",
+		"4b"
+	],
+	"3b":[
+		"Was I drinking?",
+		"Reefer madness",
+		"7wasidrinking",
+		"8reefermadness",
+		"6a",
+		"6a"
+	],
+	"4a":[
+		"Blaze first",
+		"No clue",
+		"14blazefirst",
+		"11noclue",
+		"end",
+		"5a"
+	],
+	"4b":[
+		"Trippin' balls",
+		"Peace",
+		"3trippingballs",
+		"5peace",
+		"4a",
+		"end"
+	],
+	"5a":[
+		"It's different",
+		"No it's not",
+		"12yesitis",
+		"13noitisnt",
+		"end",
+		"end"
+	],
+	"6a":[
+		"Spiritual meditation",
+		"Witches",
+		"9peaceandlove",
+		"10witches",
+		"end",
+		"end"
+	]
+}

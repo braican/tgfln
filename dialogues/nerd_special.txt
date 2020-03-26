@@ -1,0 +1,19 @@
+{
+	"begin":[
+		"last night...",
+		"spock?!",
+		"2lastnight",
+		"1spock",
+		"1a",
+		"1a"
+	],
+	"1a":[
+		"i'm lonely",
+		"take me with you",
+		"3imlonely",
+		"4takeme",
+		"ending",
+		"ending"
+	],
+	"ending":"Congratulations, you found Spock"
+}
