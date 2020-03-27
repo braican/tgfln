@@ -1,0 +1,28 @@
+{
+  "begin": [
+    "Like a kite",
+    "honey",
+    "1likeakite",
+    "1likeakite",
+    "1a",
+    "1a"
+  ],
+  "1a": [
+    "Yeah",
+    "No",
+    "2yeah",
+    "5no",
+    "2a",
+    "ending1",
+  ],
+  "2a": [
+    "It is?",
+    "I know",
+    "3itis",
+    "4iknow",
+    "ending2",
+    "ending2"
+  ],
+  "ending1": "You found the girl from last night...but you already forgot her again",
+  "ending2": "Congratulations, you found the girl from last night!"
+}

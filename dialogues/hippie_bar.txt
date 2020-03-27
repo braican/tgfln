@@ -1,0 +1,66 @@
+{
+	"begin":[
+		"It's a downer",
+		"Sweet",
+		"9downer",
+		"1sweet",
+		"1a",
+		"1b"
+	],
+	"1a":[
+		"Go with it",
+		"Any chill girls?",
+		"3gowithit",
+		"10anychillgirls",
+		"2a",
+		"2b"
+	],
+	"1b":[
+		"Go with it",
+		"I'm gifted",
+		"3gowithit",
+		"2imgifted",
+		"2a",
+		"end"
+	],
+	"2a":[
+		"What'd she do?",
+		"I love sitting",
+		"5whatdshedo",
+		"4ilovesitting",
+		"end",
+		"3a"
+	],
+	"2b":[
+		"Dealer",
+		"Stoner",
+		"14dealer",
+		"11stoner",
+		"end",
+		"3b"
+	],
+	"3a":[
+		"What'd she do?",
+		"Excuse me?",
+		"5whatdshedo",
+		"6excuseme",
+		"end",
+		"4a"
+	],
+	"3b":[
+		"No",
+		"Yes",
+		"13no",
+		"12yes",
+		"end",
+		"end"
+	],
+	"4a":[
+		"I'm outta here",
+		"Say it",
+		"8imouttahere",
+		"7sayit",
+		"end",
+		"end"
+	]
+}

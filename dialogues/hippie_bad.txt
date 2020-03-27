@@ -1,0 +1,28 @@
+{
+  "begin": [
+    "What",
+    "Of course",
+    "1what",
+    "4ofcourse",
+    "1a",
+    "1b"
+  ],
+  "1a": [
+    "Nevermind",
+    "Meditate on it",
+    "2nevermind",
+    "3meditate",
+    "ending1",
+    "ending2"
+  ],
+  "1b": [
+    "You wouldn't understand",
+    "Explain",
+    "5youwouldntunderstand",
+    "6explain",
+    "ending1",
+    "ending2"
+  ],
+  "ending1": "You found the girl from last night! But you don't really care all that much.",
+  "ending2": "Congratulations, you found the girl from last night!"
+}

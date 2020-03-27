@@ -1,0 +1,11 @@
+{
+  "begin": [
+    "Yes!",
+    "Where did you come from?",
+    "1high",
+    "2whoareyou",
+    "ending",
+    "ending"
+  ],
+  "ending": "Congratulations. You found the doobie from last night.
+}
