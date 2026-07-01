@@ -245,6 +245,12 @@ function openingAudio(){
 	}).bind("ended", function(){replaceText("begin");}).appendTo("body");
 }
 
+// ------------------  stopHoverIntro()
+// stops and removes the hover-preview audio, if any is playing
+function stopHoverIntro(){
+	$("#hoverIntro").each(function(){ this.pause(); }).remove();
+}
+
 // ------------------  fadeBG()
 // fades the background and gets a new one
 function fadeBG(){
@@ -262,10 +268,32 @@ function fadeBG(){
 $(document).ready(function(){
 
 	$("#action").hide();
-	
+
+	// remember each character's resting pose so hover can restore it
+	$("#opening img").each(function(){
+		$(this).data("base", $(this).attr("src"));
+	});
+
+	// on hover, swap to the character's alternate pose and play their intro line
+	// (mirrors the rollOver/rollOut states of the original Flash buttons)
+	$("#opening img").hover(function(){
+		var $img = $(this);
+		stopHoverIntro();
+		$img.attr("src", $img.data("pose"));
+		$("<audio></audio>").attr({
+			'id':'hoverIntro',
+			'src':'../audio/' + $img.attr("title") + '/' + $img.data("intro") + '.mp3',
+			'autoplay':'autoplay'
+		}).appendTo("body");
+	}, function(){
+		$(this).attr("src", $(this).data("base"));
+		stopHoverIntro();
+	});
+
 	// what happens on the opening click?
 	$("#opening img").click(function(){
-	
+
+		stopHoverIntro();
 		storyline = $(this).attr("title") + '';
 		
 		//for testing purposes...
