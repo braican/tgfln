@@ -1,0 +1,42 @@
+{
+	"begin":[
+		"Girl",
+		"Weed",
+		"6girl",
+		"1weed",
+		"1a",
+		"1b"
+	],
+	"1a":[
+		"Inside",
+		"Outside",
+		"7inside",
+		"8outside",
+		"end",
+		"2a"
+	],
+	"1b":[
+		"Beats me",
+		"Bong",
+		"2beatsme",
+		"5bong",
+		"2b",
+		"end"
+	],
+	"2a":[
+		"Tree",
+		"Me",
+		"9tree",
+		"10me",
+		"end",
+		"end"
+	],
+	"2b":[
+		"Got a doggybag?,
+		"I'm a vegetarian",
+		"4gotadoggybag",
+		"3imavegetarian",
+		"end",
+		"end"
+	]
+}
